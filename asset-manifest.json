@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/segundo-intento-con-react/static/css/main.87a6c5ce.css",
+    "main.js": "/segundo-intento-con-react/static/js/main.3c18de1a.js",
+    "static/js/453.ab54ff28.chunk.js": "/segundo-intento-con-react/static/js/453.ab54ff28.chunk.js",
+    "index.html": "/segundo-intento-con-react/index.html",
+    "main.87a6c5ce.css.map": "/segundo-intento-con-react/static/css/main.87a6c5ce.css.map",
+    "main.3c18de1a.js.map": "/segundo-intento-con-react/static/js/main.3c18de1a.js.map",
+    "453.ab54ff28.chunk.js.map": "/segundo-intento-con-react/static/js/453.ab54ff28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a6c5ce.css",
+    "static/js/main.3c18de1a.js"
+  ]
+}
