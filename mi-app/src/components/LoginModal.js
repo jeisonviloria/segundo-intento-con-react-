@@ -73,7 +73,7 @@ const LoginModal = memo(function LoginModal({ onClose, onLogin }) {
             }}
           >
             <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"
+              src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Favicon_2025.svg"
               alt="Google logo"
               style={{ width: '20px', marginRight: '10px' }}
             />
